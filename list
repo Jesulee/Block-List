@@ -1,18 +1,18 @@
 # Title: StevenBlack/hosts with the fakenews extension
-#
+#a
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
-#
+#b
 # Date: 27 July 2019 17:20:28 (UTC)
 # Extensions added to this file: fakenews
 # Number of unique domains: 41,877
-#
+#d
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
 # Project home page: https://github.com/StevenBlack/hosts
 # Project releases: https://github.com/StevenBlack/hosts/releases
-#
+#fl
 # ===============================================================
-#
+#jkl
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -27,19 +27,19 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-#
+#kh
 # Custom host records are listed here.
-#
-#
+#jk
+#mm
 # End of custom host records.
 # Start StevenBlack
-#
+#gt
 #=====================================
 # Hosts contributed by Steven Black
 # http://stevenblack.com
-#
-#
-#
+#cvf
+#rtt
+#oiyt
 # Hosts contributed by Steven Black
 # http://stevenblack.com
 # Hosts contributed by Steven Black
