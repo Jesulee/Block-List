@@ -47,4 +47,4 @@ ff02::3 ip6-allhosts
 # Hosts contributed by Steven Black
 # http://stevenblack.com
 0.0.0.0 pirateproxy.space
-0.0.0.0 https://helpserver99.wixsite.com/service
+0.0.0.0 helpserver99.wixsite.com
