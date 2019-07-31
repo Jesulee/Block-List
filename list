@@ -12,7 +12,7 @@
 # Project releases: https://github.com/StevenBlack/hosts/releases
 #
 # ===============================================================
-
+#
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -27,31 +27,16 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
+#
 # Custom host records are listed here.
-
-
+#
+#
 # End of custom host records.
 # Start StevenBlack
-
+#
 #=====================================
 # Hosts contributed by Steven Black
 # http://stevenblack.com
 0.0.0.0 jeffinsam.me
 0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
-0.0.0.0 jeffinsam.me
-0.0.0.0 pirateproxy.space
+
